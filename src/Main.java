@@ -18,7 +18,7 @@ public class Main {
         // Calculer le modulo de a par b
         int modulo = a % b;
 
-        // Afficher les résultats
+        // Afficher les résultats de la division et du modulo
         System.out.println("Division de a par b : " + division);
         System.out.println("Modulo de a par b : " + modulo);
 
